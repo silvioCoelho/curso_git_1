@@ -5,3 +5,7 @@ h1 {
 .p-home {
   font-size: 1.2em;
 }
+
+table {
+  background: red;
+}
